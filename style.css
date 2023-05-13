@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#titulo {
+    font-family: 'Poppins', sans-serif;
+    color: #1b1b46;
+    margin-left: 7%;
+}
+
+#subtitulo {
+    font-family: 'Poppins', sans-serif;
+    color: #1b1b46;
+    margin-left: 10%;
+}
+
+fieldset {
+    border: 0;
+}
+
+body {
+    background-color: #d6dde7;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1em;
+    color: #1b1b46;
+    margin-left: 36%;
+    margin-top: 2%;
+    justify-content: center;
+}
+
+input, select, textarea, button {
+    border-radius: 5px;
+}
+
+.campo {
+    margin-bottom: 1em;
+}
+
+.campo label {
+    margin-bottom: 0.2em;
+    color: #1b1b46;
+    display: block;
+  
+}
+
+fieldset .grupo .campo {
+    float: left;
+    margin-right: 1em;
+}
+
+.campo input [type="text"], .campo input [type="email"], .campo select, .campo textarea {
+    padding: 0.2em;
+    border: 1px solid #1b1b46;
+}
+
+.campo select option {
+    padding-right: 1em;
+}
+
+.campo input:focus, .campo select:focus, .campo textarea:focus {
+    background: #e0e0f8;
+}
+
+.botao {
+    background: #1b1b46;
+    color: #d6dde7;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    border: 0;
+    margin-bottom: 1em;
+    padding: 0.2 0.6em;
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+    cursor: pointer;
+}
