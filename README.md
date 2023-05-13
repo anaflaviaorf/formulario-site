@@ -11,14 +11,7 @@ Esse formulario tem o intuito de preenchimento das linguagens de programação <
   <a href="#memo-licença">Licença</a>
 </p>
 
-<p align="center">
-</p>
-
 <br>
-
-<p align="center">
-  <img alt="projeto formulario" src=".github/preview.jpg" width="100%">
-</p>
 
 ## 🚀 Tecnologias
 
@@ -32,7 +25,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O formulario é algo que te ajuda no dia a dia com mais facilidade para saber mais sobre os programadores
 
 - [Visite o projeto online](https://anaflaviaorf.github.io/formulario-site/)
-## 🔖 Layout
 
 ## :memo: Licença
 
